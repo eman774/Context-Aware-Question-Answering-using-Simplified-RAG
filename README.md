@@ -53,7 +53,7 @@ The system is designed for educational and experimental purposes and demonstrate
 ├── rag_qa_from_books.ipynb
 ├── README.md
 ├── LICENSE
-└── book_index/        # FAISS index files
+└── demo/        
 ```
 
 ---
@@ -63,7 +63,7 @@ The system is designed for educational and experimental purposes and demonstrate
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone https://github.com/eman774/Context-Aware-Question-Answering-using-Simplified-RAG.git
 ```
 
 2. Open the notebook:
